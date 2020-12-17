@@ -7,3 +7,13 @@ A HTML document explaining the knowledge model + the decisions of choosing vario
 An example of several RDF statements about data (assertions) conforming to the envisioned OWL model – ABox.
 Real scenario(s) – i.e. use case(s) – that involves inferences regarding your conceptualization. 
 Indicate the factual involvement of each team’s member.
+
+## Ninicu Cristian
+ontology definition\
+owl instances\
+the chrismas short story
+
+## Maftei Claudiu Ioan
+ontology definition\
+owl classes + relations\
+html knowledge model explanations
