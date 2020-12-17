@@ -11,9 +11,11 @@ https://doubleny.github.io/WADE-HACKATHON-2/index.html
 ## Ninicu Cristian
 ontology definition\
 owl instances\
-the chrismas short story
+the chrismas short story\
+html page
 
 ## Maftei Claudiu Ioan
 ontology definition\
 owl classes + relations\
-html knowledge model explanations
+html knowledge model explanations\
+inferences
