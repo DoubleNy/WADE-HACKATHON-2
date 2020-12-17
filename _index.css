@@ -1,0 +1,11 @@
+.two-thirds {
+    width: 34vw;
+}
+
+.fit {
+    width: fit-content;
+}
+
+.is-centered {
+    margin: 0 auto;
+}
