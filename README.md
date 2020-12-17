@@ -1,6 +1,6 @@
 # WADE-HACKATHON-2
 
-## PROJECT DESCRIPTIONS & REQUIREMENTS
+## PROJECT DESCRIPTION & REQUIREMENTS
 https://docs.google.com/document/d/1gzDtmCGKLrxaoKJBmLeexHvaFXnySGUMl_nSAAbxK3U/edit#
 
 ##
