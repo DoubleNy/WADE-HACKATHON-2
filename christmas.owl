@@ -361,6 +361,9 @@
         <AnnotationProperty abbreviatedIRI="owl:reachableByTrain"/>
     </Declaration>
     <Declaration>
+        <AnnotationProperty abbreviatedIRI="owl:sameAs"/>
+    </Declaration>
+    <Declaration>
         <AnnotationProperty abbreviatedIRI="owl:sentByMail"/>
     </Declaration>
     <Declaration>
@@ -939,9 +942,24 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:sameAs"/>
+        <IRI>#Barbie</IRI>
+        <Literal>http://dbpedia.org/page/Barbie</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="owl:isGood"/>
         <IRI>#Child</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:sameAs"/>
+        <IRI>#Child</IRI>
+        <Literal>http://dbpedia.org/page/Child</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:sameAs"/>
+        <IRI>#Christmas_Day</IRI>
+        <Literal>http://dbpedia.org/page/Christmas</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="owl:age"/>
@@ -964,6 +982,11 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:sameAs"/>
+        <IRI>#Clothing</IRI>
+        <Literal>http://dbpedia.org/page/Clothing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="owl:ageRangeMax"/>
         <IRI>#Consumable</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">28</Literal>
@@ -982,6 +1005,11 @@
         <AnnotationProperty abbreviatedIRI="owl:virusVulnerable"/>
         <IRI>#Cristian</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:sameAs"/>
+        <IRI>#Culture</IRI>
+        <Literal>http://dbpedia.org/page/Culture</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="owl:age"/>
@@ -1029,6 +1057,11 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger"></Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:sameAs"/>
+        <IRI>#Gift</IRI>
+        <Literal>http://dbpedia.org/page/Gift</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="owl:targetGender"/>
         <IRI>#Gift</IRI>
         <Literal></Literal>
@@ -1037,6 +1070,11 @@
         <AnnotationProperty abbreviatedIRI="owl:name"/>
         <IRI>#Holiday</IRI>
         <Literal></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:sameAs"/>
+        <IRI>#Holiday</IRI>
+        <Literal>http://dbpedia.org/page/Holiday</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="owl:age"/>
@@ -1062,6 +1100,11 @@
         <AnnotationProperty abbreviatedIRI="owl:name"/>
         <IRI>#Human</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#Name"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:sameAs"/>
+        <IRI>#Human</IRI>
+        <Literal>http://dbpedia.org/page/Human</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="owl:virusVulnerable"/>
@@ -1092,6 +1135,11 @@
         <AnnotationProperty abbreviatedIRI="owl:reachableByTrain"/>
         <IRI>#Location</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:sameAs"/>
+        <IRI>#Location</IRI>
+        <Literal>http://dbpedia.org/ontology/location</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="owl:lockdown"/>
@@ -1132,6 +1180,11 @@
         <AnnotationProperty abbreviatedIRI="owl:gender"/>
         <IRI>#Santa_Claus</IRI>
         <Literal>M</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:sameAs"/>
+        <IRI>#Santa_Claus</IRI>
+        <Literal>http://dbpedia.org/page/Santa_Claus</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="owl:age"/>
@@ -1187,6 +1240,11 @@
         <AnnotationProperty abbreviatedIRI="owl:ageRangeMin"/>
         <IRI>#Toy</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:sameAs"/>
+        <IRI>#Toy</IRI>
+        <Literal>http://dbpedia.org/page/Toy</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="owl:obstructionBoat"/>
