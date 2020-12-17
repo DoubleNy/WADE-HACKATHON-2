@@ -7,6 +7,7 @@ https://docs.google.com/document/d/1gzDtmCGKLrxaoKJBmLeexHvaFXnySGUMl_nSAAbxK3U/
 Model explanation 
 https://doubleny.github.io/WADE-HACKATHON-2/index.html
 
+(used Protege 5.5.0)
 
 ## Ninicu Cristian
 ontology definition\
